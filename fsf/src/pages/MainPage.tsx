@@ -1,6 +1,6 @@
 // import React from "react"
 import '../index.css'
-import DogImages from "../dogImage"
+import DogImages from "./dogImage"
 
 
 export const MainPage=()=>{
